@@ -21,6 +21,8 @@ fi
 
 echo "Preparing to install NodeJS..."
 
+sudo apt-get update
+
 #Installing node PPA version
 
 sudo apt-get install -y nodejs
