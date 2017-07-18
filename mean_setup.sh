@@ -39,7 +39,7 @@ echo "Updated npm to [`npm -v`] "
 #Install grunt-cli,bower
 echo "Installing bower,grunt-cli,gulp-cli..."
 
-sudo npm install -g bower,grunt-cli,gulp-cli
+sudo npm install -g bower grunt-cli gulp-cli
 
 echo "Installed bower [`bower -v`], grunt-cli, gulp-cli..."
 
